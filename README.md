@@ -9,8 +9,6 @@
 
 ![App](https://i.ibb.co/6NfmnZ6/Captura-de-pantalla-2023-12-17-103444.png)
 
-![App](https://i.ibb.co/5T5RMC3/Untitled-design.gif)
-
 ## Cómo Usarla 🛠️
 ### Conversión de Racional a Enredo: Ingresa un número racional y descubre su tangle correspondiente.
 ![App](https://i.ibb.co/BZvgzhD/Captura-de-pantalla-2023-12-17-103502.png)
