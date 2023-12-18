@@ -1,15 +1,8 @@
 from fractions import Fraction
+from operaciones import torsion, rotacion
 import math
 
 def calcular_numero_racional_como_par(tangle):
-    def torsion(x):
-        return x + 1
-
-    def rotacion(x):
-        if x == 0:
-            return float('inf')  # Evitar la división por cero
-        return -1 / x
-
     x = 0
     i = 0
 

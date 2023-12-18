@@ -7,6 +7,7 @@ from calcular_numero_racional_desde_tangle import calcular_numero_racional_como_
 from imprimir_fraccion_continua import imprimir_fraccion_continua_markdown
 from actualizar_tangle import actualizar_tangle
 from deshacer_ultimo_movimiento import deshacer_ultimo_movimiento
+from calcular_inverso import calcular_inverso
 
 import re
 from PIL import Image
@@ -172,6 +173,10 @@ def main():
     st.markdown("#### Fracción Continua")
     if st.session_state.fraccion_continua != []:
         st.latex(f"{imprimir_fraccion_continua_markdown(st.session_state.fraccion_continua)}")
+
+    st.markdown("#### Enredo Inverso")
+    if st.session_state.fraccion_continua != []:
+        st.latex(f"{calcular_inverso(st.session_state.tangle_number[0], st.session_state.tangle_number[1])}")
 
 if __name__ == '__main__':
     main()
