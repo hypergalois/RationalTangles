@@ -30,7 +30,8 @@ streamlit run rational_tangle_calculator.py
 
 ## Contribuciones 🤝
 ¡Las contribuciones son bienvenidas! Si tienes ideas para mejorar la aplicación o deseas añadir nuevas funcionalidades, no dudes en realizar un fork del repositorio y enviar tus pull requests.
-**TODO**: Añadir calculadura de inversos.
+
+**TODO**: Organizar código, funciones en un util.py.
 
 ## Licencia ⚖️
 Este proyecto está bajo MIT License.
