@@ -3,21 +3,26 @@
 ¡Bienvenido a la aplicación de Enredos Racionales! Esta herramienta te permite explorar el fascinante mundo de los enredos racionales de Conway de una manera interactiva.
 
 ## Características 🌟
-### **Interactividad**: Manipula enredos en tiempo real y observa cómo cambian los números racionales asociados.
-### **Educación Matemática**: Ideal para enseñar o aprender sobre enredos racionales, números fraccionarios y topología.
-### **Fácil de Usar**: Interfaz de usuario simple y clara.
+### **Interactividad**
+Manipula enredos en tiempo real y observa cómo cambian los números racionales asociados.
 
-![App](https://i.ibb.co/6NfmnZ6/Captura-de-pantalla-2023-12-17-103444.png)
+### **Educación Matemática**
+Ideal para enseñar o aprender sobre enredos racionales, números fraccionarios y topología.
+
+### **Fácil de Usar**
+Interfaz de usuario simple y clara.
+
+![App](images/1.png)
 
 ## Cómo Usarla 🛠️
 ### Conversión de Racional a Enredo: Ingresa un número racional y descubre su tangle correspondiente.
-![App](https://i.ibb.co/BZvgzhD/Captura-de-pantalla-2023-12-17-103502.png)
+![App](images/2.png)
 
 ### Conversión de Enredo a Racional: Introduce una secuencia de enredo y observa cómo se traduce a un número racional.
-![App](https://i.ibb.co/9YCLXJD/Captura-de-pantalla-2023-12-17-103518.png)
+![App](images/3.png)
 
 ### Playground Interactivo: Experimenta con diferentes secuencias de enredos y observa los resultados en tiempo real.
-![App](https://i.ibb.co/68chxFH/Captura-de-pantalla-2023-12-17-103605.png)
+![App](images/4.png)
 
 ## Instalación y Ejecución 🚀
 Para ejecutar la aplicación en tu entorno local:
